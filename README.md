@@ -1,4 +1,11 @@
 ### Hi there 👋
+<h2 align="left">Status: </h2>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghazaleh-mahmoodi&show_icons=true&locale=en&layout=compact" alt="ghazaleh-mahmoodi" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghazaleh-mahmoodi&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="ghazaleh-mahmoodi" /></p> 
 
 <!--
 **ghazaleh-mahmoodi/ghazaleh-mahmoodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
